@@ -529,7 +529,7 @@ D. longitude, latitude
 
     A. A slicer makes it easier for users to filter
     B. Users should be able to see both filtered and nonfiltered values.
-    C. ????????
+    C. Query speed is critical
 
 - [x] A and B
 - [ ] B and C
@@ -759,3 +759,21 @@ D. longitude, latitude
 - [ ] Service settings
 - [ ] Connectors
 - [x] Network
+
+#### Q96. What is true about paginated reports? (Select all that apply)
+A. They are formatted to fit well on a page
+B. They shrink the report data to fit on a page
+C. They truncate the report data to fit on a single page.
+D. They are both printable and shareable.
+
+- [ ] A,B,D
+- [x] A,D
+- [ ] A,C,D
+- [ ] B or B, based on user choice
+
+#### Q97. You pinned an Excel pivot table to a dashboard. What will other users be allowed to do with this visualization?
+
+- [x] all of these answers
+- [ ] Drill down in the pivot table
+- [ ] Rearrange pivot fields
+- [ ] View the pivot table
